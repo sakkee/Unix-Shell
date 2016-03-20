@@ -8,11 +8,6 @@
 #define MAXNUM 40
 #define MAXLEN 160
 
-/*
-Unix C shell (simplified) for Systeemiohjelmointi course on LUT
-Author: Sakari Laine
-Student ID: 0418598
-*/
 
 /*Auto-exit after a specific idle time*/
 void sighandler(int sig)
